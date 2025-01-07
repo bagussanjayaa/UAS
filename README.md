@@ -230,4 +230,4 @@ Fungsi ini adalah fungsi utama yang mengatur alur program, meminta input dari pe
 
 ## Link YouTube Video Dokumentasi
 
-https://youtu.be/qmEYDO0_DAc?si=8h1dh72b08pG8FfR
+[YouTube](https://youtu.be/qmEYDO0_DAc?si=8h1dh72b08pG8FfR)
